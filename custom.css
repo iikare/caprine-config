@@ -60,16 +60,16 @@ span, ._56ck{
 }
 
 ._1p1v{
-  visibility: hidden !important;
+	visibility: hidden !important;
 }
 
 ._1p1v:after{
-  content:'「○」' !important; 
-  visibility: visible !important;
-  display: block !important;
-  position: absolute !important;
-  padding: 0px !important;
-  top:0px !important;
+	content:'「○」' !important; 
+	visibility: visible !important;
+	display: block !important;
+	position: absolute !important;
+	padding: 0px !important;
+	top:0px !important;
 }
 
 
@@ -87,6 +87,8 @@ span, ._56ck{
 	overflow: none !important;
 }
 
-.img{
-	background-color: none !important;
+._7mki, ._7mkk, ._7mkh, ._30yy{
+	visibility: hidden !important;
+	display: none !important;
+	width: 0px !important;
 }
